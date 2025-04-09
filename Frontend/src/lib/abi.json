@@ -1,0 +1,164 @@
+[
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_mongoId",
+          "type": "string"
+        },
+        {
+          "internalType": "string[]",
+          "name": "_candidateIds",
+          "type": "string[]"
+        }
+      ],
+      "name": "createElection",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_mongoId",
+          "type": "string"
+        }
+      ],
+      "name": "declareResult",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_mongoId",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_candidateId",
+          "type": "string"
+        },
+        {
+          "internalType": "string",
+          "name": "_hashedVoter",
+          "type": "string"
+        }
+      ],
+      "name": "vote",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "admin",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "",
+          "type": "string"
+        }
+      ],
+      "name": "elections",
+      "outputs": [
+        {
+          "internalType": "string",
+          "name": "mongoElectionId",
+          "type": "string"
+        },
+        {
+          "internalType": "bool",
+          "name": "isActive",
+          "type": "bool"
+        },
+        {
+          "internalType": "bool",
+          "name": "isResultDeclared",
+          "type": "bool"
+        },
+        {
+          "internalType": "string",
+          "name": "winner",
+          "type": "string"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_mongoId",
+          "type": "string"
+        }
+      ],
+      "name": "getCandidates",
+      "outputs": [
+        {
+          "components": [
+            {
+              "internalType": "string",
+              "name": "candidateId",
+              "type": "string"
+            },
+            {
+              "internalType": "uint256",
+              "name": "voteCount",
+              "type": "uint256"
+            }
+          ],
+          "internalType": "struct VotingSystem.Candidate[]",
+          "name": "",
+          "type": "tuple[]"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "string",
+          "name": "_mongoId",
+          "type": "string"
+        }
+      ],
+      "name": "getVoters",
+      "outputs": [
+        {
+          "internalType": "string[]",
+          "name": "",
+          "type": "string[]"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ]
