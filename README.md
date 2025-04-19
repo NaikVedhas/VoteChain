@@ -1,7 +1,8 @@
-<h1 align="left">
-  <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/1.png?raw=true" alt="VoteChain Logo" />
+<h1 align="left" style="margin-left: 0;">
+  <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/1.png?raw=true" alt="VoteChain Logo" style="margin-left: 0;" />
 </h1>
 
+##📱 UI Showcase Preview
 
 <table align="center">
   <tr>
