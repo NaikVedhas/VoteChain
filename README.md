@@ -7,8 +7,6 @@
 </p>
 
 
----
-
 ## 🔍 Overview
 
 VoteChain is a comprehensive blockchain-powered voting system designed to provide secure, transparent, and accessible electoral processes. The platform combines cutting-edge technologies including zero-knowledge proofs, geolocation verification, and biometric authentication to ensure election integrity while maintaining voter privacy.
