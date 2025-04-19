@@ -2,7 +2,7 @@
   <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/1.png?raw=true" alt="VoteChain Logo" style="margin-left: 0;" />
 </h1>
 
-##📱 UI Showcase Preview
+## 📱 UI Showcase Preview
 
 <table align="center">
   <tr>
