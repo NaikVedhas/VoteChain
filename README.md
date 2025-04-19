@@ -1,8 +1,8 @@
-<h1 align="left">
+<h1 align="center">
   <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/1.png?raw=true" alt="VoteChain Logo" />
 </h1>
 
-<p align="left">
+<p align="center">
   <i>By Team Commitment Issues</i>
 </p>
 
@@ -17,7 +17,7 @@ VoteChain is a comprehensive blockchain-powered voting system designed to provid
 
 - **Secure Identity Verification** — Multi-factor authentication through OTP and biometrics
 - **Geolocation Eligibility** — Smart radius-based voting access using the Haversine formula
-- **Blockchain Vote Processing** — Immutable record of votes with privacy preservation
+- **Blockchain Vote Processing** — Immutable record of votes with privacy preservation using Zero Knowledge Proof
 - **Interactive Results Dashboard** — Real-time voting statistics with dynamic visualizations
 - **AI-Powered Assistance** — Integrated chatbot support
 - **Admin Election Management** — Complete tools for creating and managing elections
@@ -70,19 +70,16 @@ VoteChain is a comprehensive blockchain-powered voting system designed to provid
     <tr>
       <td align="center">
         <a href="https://github.com/NaikVedhas">
-          <img src="/api/placeholder/100/100" width="100px" alt="Vedhas Naik" /><br />
           <b>Vedhas Naik</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/niharikah005">
-          <img src="/api/placeholder/100/100" width="100px" alt="Niharika Hariharan" /><br />
           <b>Niharika Hariharan</b>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/ShreyaR2">
-          <img src="/api/placeholder/100/100" width="100px" alt="Shreya Rajeev" /><br />
           <b>Shreya Rajeev</b>
         </a>
       </td>
