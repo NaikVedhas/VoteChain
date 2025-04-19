@@ -6,13 +6,29 @@
   <i>By Team Commitment Issues</i>
 </p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/2.png?raw=true" alt="VoteChain Screenshot 1" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/5.png?raw=true" alt="VoteChain Screenshot 2" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/3.png?raw=true" alt="VoteChain Screenshot 3" width="400"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/4.png?raw=true" alt="VoteChain Screenshot 4" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ## 🔍 Overview
-
 VoteChain is a comprehensive blockchain-powered voting system designed to provide secure, transparent, and accessible electoral processes. The platform combines cutting-edge technologies including zero-knowledge proofs, geolocation verification, and biometric authentication to ensure election integrity while maintaining voter privacy.
 
 ## 🔐 Key Features
-
 - **Secure Identity Verification** — Multi-factor authentication through OTP and biometrics
 - **Geolocation Eligibility** — Smart radius-based voting access using the Haversine formula
 - **Blockchain Vote Processing** — Immutable record of votes with privacy preservation using Zero Knowledge Proof
@@ -21,7 +37,6 @@ VoteChain is a comprehensive blockchain-powered voting system designed to provid
 - **Admin Election Management** — Complete tools for creating and managing elections
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -44,7 +59,6 @@ VoteChain is a comprehensive blockchain-powered voting system designed to provid
 </p>
 
 ## 📊 Implementation Status
-
 ### Completed Features
 - ✅ Zero-Knowledge Proof implementation
 - ✅ Admin election creation with geolocation settings
@@ -59,10 +73,7 @@ VoteChain is a comprehensive blockchain-powered voting system designed to provid
 - ⏳ Biometric authentication implementation
 - ⏳ Advanced analytics dashboard
 
-
-
 ## 👥 Team
-
 <div align="center">
   <table>
     <tr>
