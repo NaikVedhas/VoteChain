@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/1.png?raw=true" alt="VoteChain Logo" />
 </h1>
 
