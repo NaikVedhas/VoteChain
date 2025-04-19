@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/api/placeholder/80/80" alt="VoteChain Logo" />
+  <img src="https://github.com/NaikVedhas/VoteChain/blob/main/Frontend/public/1.png?raw=true" alt="VoteChain Logo" />
   <br>
   VoteChain
 </h1>
